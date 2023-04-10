@@ -1,11 +1,16 @@
-#как пользоваться ветками
-There's nothing here either. It's just a decoy.
+# Пользоваться ветками весело и безопасно =)
+###### еще одна строчка чтобы была пара строк
 
-#как создать ветку
-It's a new sentence, not an instruction.
+## Как создать ветку
 
-#как переключиться в ветку
-There's this one command but I don't remember it.
+Создать ветку можно при помощи команды ```git branch название_ветки```
 
-#как отправить ветку на сервер
-Something about pushung, but the sky looks beautiful at this time of day.
+## Как переключиться в новую ветку
+
+Это можно сделать с помощью команды ```git checkout название_ветки```
+
+## Как отправить ветку на сервер
+
+Пишем 
+```git push```
+ и готово.
